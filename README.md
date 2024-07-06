@@ -14,12 +14,10 @@ NLP project to Emotion Classification through your text
 * 🔗 This data from Kaggel was used to train the model:[Emotions](https://www.kaggle.com/datasets/nelgiriyewithana/emotions)
 * I used a Tokenizer from torch and the architecture of the model consists of (Bi-LSTM, Conc1D) , You can view the code through this links on:
     - 🔗 Kaggel : [ How do you feel now?](https://www.kaggle.com/code/zeyadusf/how-do-you-feel-now?)
-    - 🔗 GitHub: 
+    - 🔗 GitHub:  [How do you feel?](https://github.com/zeyadusf/How-do-you-feel/blob/main/how-do-you-feel.ipynb)
 
 
-## 🚩 Requirement ##
-```pip install torchtext
-```
+
 
   <hr>
   
